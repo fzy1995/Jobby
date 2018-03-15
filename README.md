@@ -7,7 +7,7 @@ The live website can be found here at [Jobby Job Portal](http://rails-jobby.hero
 
 We created Jobby from scratch using Ruby On Rails, deployed and hosted it at Heroku.
 
-For the complete code for Jobby, please visit [master branch](https://github.com/ryangoh/Jobby).
+For the complete code for Jobby, please visit [upstream](https://github.com/ryangoh/Jobby).
 
 ## Jobby
 
